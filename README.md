@@ -54,4 +54,3 @@ Instrukcje użytkowania:
 Uwagi:
 - Program aktualizuje strategie na podstawie wyników symulacji.
 - Możesz zakończyć grę przeciwko nauczonymu komputerowi w dowolnym momencie, wpisując "q" podczas wyboru ruchu.
-![image](https://github.com/szymon-kus/rps-markov/assets/144013915/a8d44e81-5a2e-421d-bcc3-d8ff90b8bb7b)
