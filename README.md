@@ -1,7 +1,5 @@
 # rps-markov
-Simulator of game rock, paper, scissors using Markov Chain. 
-
-Dokumentacja programu "Kamień, Papier, Nożyce" z wykorzystaniem łańcucha Markova
+Symulator gry w Kamień, papier, nożycie z wykorzystaniem łańcucha Markova. 
 
 Opis programu
 Program "Kamień, Papier, Nożyce" jest prostą symulacją gry, w której użytkownik rywalizuje z komputerem. Program wykorzystuje strategie i macierz przejść, aby nauczyć się najlepszego wyboru na podstawie historii rozgrywki. Po przeprowadzeniu symulacji, użytkownik ma możliwość zmierzenia się z nauczonym komputerem. Po zakończeniu symulacji i rozgrywki z komputerem wyświetlają się wykresy z wynikami gry. 
